@@ -5,9 +5,9 @@ import {
   RouterProvider,
 } from 'react-router-dom';
 import HomePage from '../pages/home/HomePage';
-import ProductsPage from '../pages/products/ProductsPage';
+import ProductsPage from '../pages/products/components/ProductsPage';
 import CategoriesPage from '../pages/categories/CategoriesPage';
-import UsersPage from '../pages/users/Users';
+import UsersPage from '../pages/users/components/Users';
 import NotFoundPage from '../components/NotFoundPage';
 import Layout from '../components/Layout';
 
